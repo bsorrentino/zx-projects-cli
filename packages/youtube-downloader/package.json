@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "zx zx-youtube-download.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ytdl-core": "^4.11.0",
+    "ytdl-core": "^4.11.2",
     "zx": "^7.0.7"
   }
 }
